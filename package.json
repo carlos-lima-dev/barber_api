@@ -48,7 +48,7 @@
     "node-cron": "^3.0.3",
     "nodemailer": "^6.9.14",
     "swagger-jsdoc": "^6.2.8",
-    "twilio": "^5.2.2",
+    "twilio": "^4.19.0",
     "uuid": "^9.0.1"
   }
 }
