@@ -17,7 +17,7 @@ const scheduleDailyCleanup = () => {
     }
   });
 
-  cron.schedule("00 13 * * *", async () => {
+  cron.schedule("18 14 * * *", async () => {
     console.log("Running daily reminder job at", new Date());
     try {
       const tomorrow = new Date();
